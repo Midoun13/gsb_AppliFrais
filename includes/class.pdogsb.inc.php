@@ -43,9 +43,9 @@ use PDO;
 class PdoGsb
 {
     private static $_serveur = 'mysql:host=localhost';
-    private static $_bdd = 'dbname=gsb_frais';
-    private static $_user = 'userGsb';
-    private static $_mdp = 'secret';
+    private static $_bdd = 'dbname=id13336155_gsbfrais';
+    private static $_user = 'id13336155_usergsb';
+    private static $_mdp = 'sB#Ut*Yp=1HIBqca';
     private static $_monPdo;
     private static $_monPdoGsb = null;
 
